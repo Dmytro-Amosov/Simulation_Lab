@@ -145,7 +145,7 @@ to set-car-speed  ;; turtle procedure
 end
 </pre>
 
-![Скріншот моделі](Lab2.png)
+![Скріншот моделі](lab2.png)
 
 Фінальний код моделі та її інтерфейс доступні за [посиланням](model.nlogox).
 <br>
